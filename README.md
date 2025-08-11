@@ -16,3 +16,4 @@ git clone https://github.com/Bombat18/BackendShrink.git
 cd BackendShrink
 npm install
 ```
+cp .envEx .env
