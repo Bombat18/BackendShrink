@@ -22,7 +22,7 @@ Copy the sample env file and configure:
 ```bash
 cp .envEx .env
 ```
-### Run in development with hot reload (if configured)
+### Run in development (if configured)
 ```bash
 npm run dev
 ```
