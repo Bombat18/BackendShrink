@@ -15,3 +15,4 @@ Clone the repository and install dependencies:
 git clone https://github.com/Bombat18/BackendShrink.git
 cd BackendShrink
 npm install
+```
